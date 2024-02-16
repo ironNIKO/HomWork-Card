@@ -1,0 +1,71 @@
+.card {
+  border: 5px white solid;
+  border-radius: 10px;
+  font-size: 25px;
+  position: absolute;
+  width: 500px;
+  height: 300px;
+  display: inline-block;
+  padding: 20px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section_dollar {
+  background: rgb(181,181,181);
+  background: linear-gradient(139deg, rgba(181,181,181,1) 0%, rgba(171,185,53,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.section_evro {
+  left: 515px;
+  background: rgb(181,181,181);
+  background: linear-gradient(139deg, rgba(181,181,181,1) 0%, rgba(155,53,185,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.section_yen {
+  left: 1030px;
+  background: rgb(181,181,181);
+  background: linear-gradient(139deg, rgba(181,181,181,1) 0%, rgba(185,183,53,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+.weekly{
+  padding: 30px;
+}
+
+.svg {
+  position: relative;
+  left: 370px;
+  bottom: 60px;
+  filter: invert();
+}
+
+.cash {
+  font-size: 50px;
+  position: relative;
+  bottom: 40px;
+  left: 30px;
+}
+
+.percent {
+  padding: 30px;
+}
+
+.krug {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: #ffffff45;
+  border-radius: 50%;
+  bottom: 300px;
+  left: 320px;
+}
+
+.krug-2{
+  position: relative;
+  width: 250px;
+  height: 250px;
+  background: #ffffff45;
+  border-radius: 50%;
+  bottom: 360px;
+  left: 270px;
+}
